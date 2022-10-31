@@ -1,5 +1,4 @@
-# Exploring Weather Trends - Data Analysis - Udacity Nanodegree Project
-
+# Exploring Weather Trends - Data Analysis 
 ### This project is the first project for Data Analysis Nanodegree Term-1
 ### This project is the most basic way to analyze the raw data using Excel
 
